@@ -8,7 +8,7 @@
   
 [Tata Surya](https://solarsystem.nasa.gov/)
 
-![Galaksi Bima Sakti]([https://example.com/images/milky-way-galaxy.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.antaranews.com%2Fberita%2F652187%2Fselfie-monyet-masalah-hak-cipta-foto-akhirnya-terselesaikan&psig=AOvVaw3thI3kUeV-a187urILrxst&ust=1733631438138000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjWrc7mlIoDFQAAAAAdAAAAABAE))
+![Galaksi Bima Sakti](https://cdn.antaranews.com/cache/1200x800/2017/09/20170912Untitled-1.jpg.webp)
 
 | Planet | Diameter | Jumlah Satelit |
 | ------- | -------- | -------------- |
