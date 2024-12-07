@@ -5,8 +5,11 @@
 - Saturnus
 - Uranus
 - Neptunus
+  
 [Tata Surya](https://solarsystem.nasa.gov/)
+
 ![Galaksi Bima Sakti](https://example.com/images/milky-way-galaxy.jpg)
+
 | Planet | Diameter | Jumlah Satelit |
 | ------- | -------- | -------------- |
 | Bumi | 12.756 | 1 |
